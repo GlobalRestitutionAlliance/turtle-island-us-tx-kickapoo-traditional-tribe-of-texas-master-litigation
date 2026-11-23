@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=TX+KICKAPOO+TRADITIONAL+TRIBE+OF+TEXAS",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=TX+KICKAPOO+TRADITIONAL+TRIBE+OF+TEXAS",
+  "title": "Federal Register - TX KICKAPOO TRADITIONAL TRIBE OF TEXAS",
+  "fetched_at": "2026-11-23T18:12:03.498038Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 222683,
+  "sha256": "1a1fcae928394eb7fd311909f12de0083cbe246afbf318c446773cce928c8ebe",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
